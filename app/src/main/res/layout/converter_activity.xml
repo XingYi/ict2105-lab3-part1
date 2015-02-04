@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- TODO implement the UI here... -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/title_temperate_converter"
+        android:id="@+id/tvTitle"
+        android:layout_marginBottom="@dimen/title_temperate_bottom_margin"
+        android:textSize="@dimen/title_temperate_textSize" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal|numberSigned"
+        android:ems="10"
+        android:id="@+id/editTextTemperature"
+        android:layout_gravity="center_horizontal"
+        android:hint="@string/hint_editText_temperature"
+        android:maxLength="@integer/maxTextLength" />
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <RadioButton
+            android:id="@+id/radioFahrenheit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="@string/fahrenheit_radio" />
+
+        <RadioButton
+            android:id="@+id/radioCelsius"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/celsius_radio" />
+
+        </RadioGroup>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/convert_button"
+        android:id="@+id/convert_button"
+        android:background="@drawable/btn_green"
+        style="@style/ButtonText" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/clear_button"
+        android:id="@+id/clear_button"
+        android:background="@drawable/btn_red"
+        style="@style/ButtonText" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:layout_marginTop="@dimen/message_temperate_top_margin"
+        android:textSize="@dimen/body_textSize"
+        android:gravity="center_horizontal" />
+</LinearLayout>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Xing%20Yi/Android%20studioProjects/PermissionsLab/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="body_textSize">20dp</dimen>
+    <dimen name="message_temperate_top_margin">20dp</dimen>
+    <dimen name="title_temperate_bottom_margin">10dp</dimen>
+    <dimen name="title_temperate_textSize">30dp</dimen>
+    <!-- From: file:/C:/Users/Xing%20Yi/Android%20studioProjects/PermissionsLab/app/src/main/res/values/integers.xml -->
+    <eat-comment/>
+    <integer name="maxTextLength">5</integer>
+    <!-- From: file:/C:/Users/Xing%20Yi/Android%20studioProjects/PermissionsLab/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">PermissionsApp</string>
+    <string name="celsius_radio">to Celsius</string>
+    <string name="clear_button">Clear</string>
+    <string name="convert_button">Convert</string>
+    <string name="cust_button1">Start Dangerous Activity</string>
+    <string name="cust_message">This button will load a Dangerous Level activity</string>
+    <string name="fahrenheit_radio">to Fahrenheit</string>
+    <string name="hint_editText_temperature">Enter temperature here</string>
+    <string name="main_button3">Bookmarks Activity</string>
+    <string name="main_button4">Converter Activity</string>
+    <string name="perms_button1">Get Bookmarks</string>
+    <string name="perms_button2">Go To DangerousActivity</string>
+    <string name="place_holder">Bookmarks Go Here</string>
+    <string name="title_activity_customization">Customization</string>
+    <string name="title_main">PermissionsApp</string>
+    <string name="title_permissions">Permissions</string>
+    <string name="title_temperate_converter">Temperature Converter</string>
+    <!-- From: file:/C:/Users/Xing%20Yi/Android%20studioProjects/PermissionsLab/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <!-- From: file:/C:/Users/Xing%20Yi/Android%20studioProjects/PermissionsLab/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <style name="ButtonText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textSize">30dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+</resources>

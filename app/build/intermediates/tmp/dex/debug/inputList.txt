@@ -1,0 +1,2 @@
+C:\Users\Xing Yi\Android studioProjects\PermissionsLab\app\build\intermediates\classes\debug
+C:\Users\Xing Yi\Android studioProjects\PermissionsLab\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-244d8581652a0ddc3ebd7ff2b0cc90a8ec1712fb.jar

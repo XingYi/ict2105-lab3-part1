@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_temperate_bottom_margin">10dp</dimen>
+    <dimen name="title_temperate_textSize">30dp</dimen>
+    <dimen name="message_temperate_top_margin">20dp</dimen>
+    <dimen name="body_textSize">20dp</dimen>
+</resources>
