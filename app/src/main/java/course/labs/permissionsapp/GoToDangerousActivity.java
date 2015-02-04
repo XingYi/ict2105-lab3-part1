@@ -42,7 +42,7 @@ public class GoToDangerousActivity extends Activity {
 
         Intent dangerousActivityIntent = new Intent(DANGEROUS_ACTIVITY_ACTION);
 
-        // Verify it resolves
+        // Verify if the intent resolves
         PackageManager packageManager = getPackageManager();
         List<ResolveInfo> activities = packageManager.queryIntentActivities(dangerousActivityIntent, 0);
         boolean isIntentSafe = activities.size() > 0;
@@ -51,6 +51,9 @@ public class GoToDangerousActivity extends Activity {
         if (isIntentSafe) {
             Log.i(TAG, "There is an app to receive dangerousActivityIntent");
             startActivity(dangerousActivityIntent);
+        }
+        else{
+            Log.i(TAG, "There is NO app to receive dangerousActivityIntent");
         }
 
 	}

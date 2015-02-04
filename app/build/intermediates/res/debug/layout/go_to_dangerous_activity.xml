@@ -15,4 +15,4 @@
         android:layout_height="wrap_content"
         android:text="@string/cust_button1" />
 
-</LinearLayout><!-- From: file:/C:/Users/Xing%20Yi/Android%20studioProjects/PermissionsLab/app/src/main/res/layout/go_to_dangerous_activity.xml -->
+</LinearLayout><!-- From: file:/C:/Users/Xing%20Yi/Android%20studioProjects/ict2105-lab3-part1/app/src/main/res/layout/go_to_dangerous_activity.xml -->

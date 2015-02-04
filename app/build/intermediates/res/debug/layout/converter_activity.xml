@@ -65,4 +65,4 @@
         android:layout_marginTop="@dimen/message_temperate_top_margin"
         android:textSize="@dimen/body_textSize"
         android:gravity="center_horizontal" />
-</LinearLayout><!-- From: file:/C:/Users/Xing%20Yi/Android%20studioProjects/PermissionsLab/app/src/main/res/layout/converter_activity.xml -->
+</LinearLayout><!-- From: file:/C:/Users/Xing%20Yi/Android%20studioProjects/ict2105-lab3-part1/app/src/main/res/layout/converter_activity.xml -->

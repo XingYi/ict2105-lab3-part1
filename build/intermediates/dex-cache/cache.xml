@@ -6,7 +6,7 @@
         jumboMode="false"
         revision="21.1.2"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="C:\Users\Xing Yi\Android studioProjects\PermissionsLab\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-244d8581652a0ddc3ebd7ff2b0cc90a8ec1712fb.jar" />
+        <dex dex="C:\Users\Xing Yi\Android studioProjects\ict2105-lab3-part1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-244d8581652a0ddc3ebd7ff2b0cc90a8ec1712fb.jar" />
     </item>
 
 </items>

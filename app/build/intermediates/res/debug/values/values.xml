@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/Users/Xing%20Yi/Android%20studioProjects/PermissionsLab/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/C:/Users/Xing%20Yi/Android%20studioProjects/ict2105-lab3-part1/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="body_textSize">20dp</dimen>
     <dimen name="message_temperate_top_margin">20dp</dimen>
     <dimen name="title_temperate_bottom_margin">10dp</dimen>
     <dimen name="title_temperate_textSize">30dp</dimen>
-    <!-- From: file:/C:/Users/Xing%20Yi/Android%20studioProjects/PermissionsLab/app/src/main/res/values/integers.xml -->
+    <!-- From: file:/C:/Users/Xing%20Yi/Android%20studioProjects/ict2105-lab3-part1/app/src/main/res/values/integers.xml -->
     <eat-comment/>
     <integer name="maxTextLength">5</integer>
-    <!-- From: file:/C:/Users/Xing%20Yi/Android%20studioProjects/PermissionsLab/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Xing%20Yi/Android%20studioProjects/ict2105-lab3-part1/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">PermissionsApp</string>
     <string name="celsius_radio">to Celsius</string>
@@ -28,7 +28,7 @@
     <string name="title_main">PermissionsApp</string>
     <string name="title_permissions">Permissions</string>
     <string name="title_temperate_converter">Temperature Converter</string>
-    <!-- From: file:/C:/Users/Xing%20Yi/Android%20studioProjects/PermissionsLab/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/C:/Users/Xing%20Yi/Android%20studioProjects/ict2105-lab3-part1/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
@@ -40,7 +40,7 @@
     <style name="AppTheme" parent="AppBaseTheme">
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
     </style>
-    <!-- From: file:/C:/Users/Xing%20Yi/Android%20studioProjects/PermissionsLab/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Xing%20Yi/Android%20studioProjects/ict2105-lab3-part1/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <style name="ButtonText">
         <item name="android:layout_width">fill_parent</item>
